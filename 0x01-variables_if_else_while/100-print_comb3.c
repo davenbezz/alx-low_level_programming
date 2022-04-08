@@ -2,8 +2,7 @@
 
 /**
  * main - Entry Point
- * Description: Prints all possible combinations of two different digits,
- * in ascending order, separated by a comma followed by a space.
+ * Description: Pble combinations of two different digits
  * Return: Always 0
  */
 
