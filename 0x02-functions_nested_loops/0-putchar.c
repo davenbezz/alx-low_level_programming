@@ -1,14 +1,9 @@
 #include "main.h"
 
 /**
- *
- *
- *  main-main block
- *
- *  Description:print -putchar in a new line
- *
- *  Return:this program returns zero
- *
+ * main-main block
+ * Description: print- putchar in a new line
+ * Return: 0
  */
 
 int main(void)
